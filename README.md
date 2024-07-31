@@ -1,12 +1,4 @@
-# digiKIT
 
-"digiKIT" is an e-commerce app to demonstrate how to put "full-stack" development together. It contains the basic CRUD for products, shopping cart, and making orders, except actual purchase.
-
-## More Information
-
-[Project introduction on my website](https://cyishere.dev/portfolio/digikit)
-
-## Tech Stack
 
 **Backend:**
 
